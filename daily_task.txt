@@ -1,3 +1,10 @@
-java printing
-yes
-learning
+public class Rectangle
+{
+public static void main(String args[])
+{
+int len = 15;
+int width = 3;
+Area = len*width;
+System.out.println("Area of the rectangle:"+Area);
+}
+}
