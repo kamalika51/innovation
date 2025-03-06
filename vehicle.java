@@ -1,4 +1,4 @@
-class Vehicle 
+public class Vehicle 
 {
 public void start()
 {
