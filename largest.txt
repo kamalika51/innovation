@@ -1,5 +1,5 @@
 import java .util.Scanner;
-class largest
+public class largest
 {
 public static void main(String args[])
 {
